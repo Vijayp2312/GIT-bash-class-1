@@ -1,2 +1,3 @@
 # class-2
-this is my 2nd try including readme file
+This is my 2nd try including Readme file.
+Auther - Vijay kumar P
